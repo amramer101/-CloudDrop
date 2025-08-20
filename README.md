@@ -29,7 +29,7 @@ It enables users to **upload and download files** with **end-to-end encryption**
 | **IAM Roles/Policies** | Fine-grained access control & least-privilege enforcement    |
 | **Terraform**          | Automated infrastructure provisioning & lifecycle management |
 
-📌 Example Architecture Diagram: (https://github.com/amramer101/-CloudDrop/blob/main/1745514427629.jpeg "1745514427629.jpeg")\\
+📌 Example Architecture Diagram: (1745514427629.jpeg)\\
 
 ---
 
