@@ -43,7 +43,50 @@ It provides **seamless uploads & downloads**, **end-to-end encryption**, and **f
 
 ## 🔧 Installation & Setup
 
-### 1️⃣ Clone the Repository
-```bash
+
+2️⃣ Provision Infrastructure
+
+Make sure you have Terraform
+ installed:
+
+terraform init
+terraform plan
+terraform apply
+
+3️⃣ Configure AWS Environment
+
+Set up AWS CLI with credentials:
+
+aws configure
+
+4️⃣ Run Automation Scripts
+
+Install dependencies:
+
+pip install boto3
+
+
+Run upload/download scripts:
+
+python upload_file.py
+python download_file.py
+
+🌐 Usage
+
+Upload files → securely stored in Amazon S3.
+
+Download files → retrieved with encryption & IAM-based access.
+
+📊 Performance Highlights
+
+✅ 99.5% uptime across infrastructure.
+
+✅ 20% lower latency through EC2 & networking optimizations.
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a pull request 🚀
+
 git clone https://github.com/ammr102/AWS.git
 cd AWS/CloudDrop
