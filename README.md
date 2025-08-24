@@ -42,7 +42,7 @@ The architecture is designed for **security, scalability, and performance**:
 
 ### Architecture Diagram
 
-![CloudDrop Architecture](https://github.com/amramer101/-CloudDrop/blob/main/1745514427629.jpeg "CloudDrop Architecture")
+![CloudDrop Architecture](https://github.com/amramer101/-CloudDrop/blob/main/AWS2.jpg "CloudDrop Architecture")
 
 *Figure: Secure, scalable, and automated AWS architecture for CloudDrop*
 
