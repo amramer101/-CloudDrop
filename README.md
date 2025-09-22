@@ -46,11 +46,7 @@ The architecture is designed for **security, scalability, and performance**:
 
 *Figure: Secure, scalable, and automated AWS architecture for CloudDrop*
 
-### Workflow Diagram
 
-![CloudDrop Workflow](https://github.com/amramer101/-CloudDrop/blob/main/1745514560167.jpeg "CloudDrop Workflow")
-
-*Figure: End-to-end workflow for file uploads, downloads, and automation*
 
 ---
 
